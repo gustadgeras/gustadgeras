@@ -8,7 +8,7 @@ Sou um desenvolvedor Full-Stack com experiência em diversas tecnologias. Sempre
 
 ### 🚀 Atualmente trabalhando em:
 
-- 🔭 Estou contribuindo para o [Sam Bot](https://samzinho.fun)
+- 🔭 Estou contribuindo para o [Sam Bot](https://sambot.fun)
 
 ---
 
